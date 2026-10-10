@@ -1,0 +1,14 @@
+/target/
+.env*
+!.env.example
+.DS_Store
+._*
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+Desktop.ini
+*~
+*.swo
+\#*\#
+.#*
